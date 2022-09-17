@@ -1,5 +1,5 @@
 #Greetings
-print("Hi there , \"Welcome to the Guess The Number\" game !")
+print("Hi there , Welcome to the \"Guess The Number\" game !")
 Name = input("Please enter your name to start : ")
 
 # Game
